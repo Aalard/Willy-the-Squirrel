@@ -1,0 +1,522 @@
+fileFormatVersion: 2
+guid: 9d71d90097602d14db7a12bf8e7d13c3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1706389083349292888
+    second: crashedJugs_0
+  - first:
+      213: -7336036045041124185
+    second: crashedJugs_1
+  - first:
+      213: 318250507617027296
+    second: crashedJugs_2
+  - first:
+      213: 4075962758646719509
+    second: crashedJugs_3
+  - first:
+      213: -1772671979105048086
+    second: crashedJugs_4
+  - first:
+      213: 7239433355754209486
+    second: crashedJugs_5
+  - first:
+      213: -5892856231540460954
+    second: crashedJugs_6
+  - first:
+      213: 4187145716691721392
+    second: crashedJugs_7
+  - first:
+      213: 3025762911142040923
+    second: crashedJugs_8
+  - first:
+      213: 1117868211728327081
+    second: crashedJugs_9
+  - first:
+      213: 5755806750211886629
+    second: crashedJugs_10
+  - first:
+      213: -7922109303509071981
+    second: crashedJugs_11
+  - first:
+      213: -7736186824219700564
+    second: crashedJugs_12
+  - first:
+      213: -582870139675885096
+    second: crashedJugs_13
+  - first:
+      213: -4718558709087782220
+    second: crashedJugs_14
+  - first:
+      213: -2742757618622329011
+    second: crashedJugs_15
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: crashedJugs_0
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 341
+        width: 65
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a86c566b20b158e0800000000000000
+      internalID: -1706389083349292888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crashedJugs_1
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 338
+        width: 42
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7acbcd3c51a213a90800000000000000
+      internalID: -7336036045041124185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crashedJugs_2
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 361
+        width: 59
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e4c9188627aa6400800000000000000
+      internalID: 318250507617027296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crashedJugs_3
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 334
+        width: 55
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 514ebda988ab09830800000000000000
+      internalID: 4075962758646719509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crashedJugs_4
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 241
+        width: 69
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae9a72e1a343667e0800000000000000
+      internalID: -1772671979105048086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crashedJugs_5
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 230
+        width: 45
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec008d8e742a77460800000000000000
+      internalID: 7239433355754209486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crashedJugs_6
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 268
+        width: 36
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6627596aa7e583ea0800000000000000
+      internalID: -5892856231540460954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crashedJugs_7
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 251
+        width: 49
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bc553a48dabb1a30800000000000000
+      internalID: 4187145716691721392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crashedJugs_8
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 149
+        width: 68
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b555c25265badf920800000000000000
+      internalID: 3025762911142040923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crashedJugs_9
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 141
+        width: 34
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a1a4c14737738f00800000000000000
+      internalID: 1117868211728327081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crashedJugs_10
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 155
+        width: 46
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52ecc266ebbb0ef40800000000000000
+      internalID: 5755806750211886629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crashedJugs_11
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 135
+        width: 71
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3974684cf830f0290800000000000000
+      internalID: -7922109303509071981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crashedJugs_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 38
+        width: 78
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca2d35a421b83a490800000000000000
+      internalID: -7736186824219700564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crashedJugs_13
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 29
+        width: 95
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d1cf6632ba39e7f0800000000000000
+      internalID: -582870139675885096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crashedJugs_14
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 25
+        width: 58
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ba3ff4aadf448eb0800000000000000
+      internalID: -4718558709087782220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crashedJugs_15
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 2
+        width: 58
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4f05054a74cfe9d0800000000000000
+      internalID: -2742757618622329011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      crashedJugs_2: 318250507617027296
+      crashedJugs_6: -5892856231540460954
+      crashedJugs_7: 4187145716691721392
+      crashedJugs_3: 4075962758646719509
+      crashedJugs_0: -1706389083349292888
+      crashedJugs_5: 7239433355754209486
+      crashedJugs_1: -7336036045041124185
+      crashedJugs_4: -1772671979105048086
+      crashedJugs_11: -7922109303509071981
+      crashedJugs_13: -582870139675885096
+      crashedJugs_10: 5755806750211886629
+      crashedJugs_15: -2742757618622329011
+      crashedJugs_8: 3025762911142040923
+      crashedJugs_12: -7736186824219700564
+      crashedJugs_9: 1117868211728327081
+      crashedJugs_14: -4718558709087782220
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

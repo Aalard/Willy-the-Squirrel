@@ -1,0 +1,596 @@
+fileFormatVersion: 2
+guid: 9a51081061ebc104182c3624c3681ad4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: squirrelJumpSpriteSheet_0
+  - first:
+      213: 21300002
+    second: squirrelJumpSpriteSheet_1
+  - first:
+      213: 21300004
+    second: squirrelJumpSpriteSheet_2
+  - first:
+      213: 21300006
+    second: squirrelJumpSpriteSheet_3
+  - first:
+      213: 21300008
+    second: squirrelJumpSpriteSheet_4
+  - first:
+      213: 21300010
+    second: squirrelJumpSpriteSheet_5
+  - first:
+      213: 21300012
+    second: squirrelJumpSpriteSheet_6
+  - first:
+      213: 21300014
+    second: squirrelJumpSpriteSheet_7
+  - first:
+      213: 21300016
+    second: squirrelJumpSpriteSheet_8
+  - first:
+      213: 21300018
+    second: squirrelJumpSpriteSheet_9
+  - first:
+      213: 21300020
+    second: squirrelJumpSpriteSheet_10
+  - first:
+      213: 21300022
+    second: squirrelJumpSpriteSheet_11
+  - first:
+      213: 21300024
+    second: squirrelJumpSpriteSheet_12
+  - first:
+      213: 21300026
+    second: squirrelJumpSpriteSheet_13
+  - first:
+      213: 21300028
+    second: squirrelJumpSpriteSheet_14
+  - first:
+      213: 21300030
+    second: squirrelJumpSpriteSheet_15
+  - first:
+      213: 21300032
+    second: squirrelJumpSpriteSheet_18
+  - first:
+      213: 21300034
+    second: squirrelJumpSpriteSheet_19
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: squirrelJumpSpriteSheet_0
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 1472
+        width: 473
+        height: 192
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42d9cd6a43a5ba1c99a642d174efcf12
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirrelJumpSpriteSheet_1
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 1472
+        width: 517
+        height: 213
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e27b836e5efa68f8a73026cda7e8e00
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirrelJumpSpriteSheet_2
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 1472
+        width: 566
+        height: 254
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b218cc832601bf7928ae3a0543ab1371
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirrelJumpSpriteSheet_3
+      rect:
+        serializedVersion: 2
+        x: 1939
+        y: 1484
+        width: 548
+        height: 272
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 024a8ab4735df940c9cd32b461f2951d
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirrelJumpSpriteSheet_4
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 1123
+        width: 570
+        height: 273
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b81edfd81852152a91a68073411fb86
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirrelJumpSpriteSheet_5
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 1147
+        width: 541
+        height: 250
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d37db874c459ee0fab27325b41856852
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirrelJumpSpriteSheet_6
+      rect:
+        serializedVersion: 2
+        x: 1323
+        y: 1190
+        width: 528
+        height: 210
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a15dac3a87ed68bf96e7761dfa56210
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirrelJumpSpriteSheet_7
+      rect:
+        serializedVersion: 2
+        x: 1902
+        y: 1210
+        width: 575
+        height: 194
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1b105759c7f6d08298be392a7efcfa1
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirrelJumpSpriteSheet_8
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 842
+        width: 599
+        height: 194
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0de93adc2105cfaf7b99ed628fcbc2bd
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirrelJumpSpriteSheet_9
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 842
+        width: 605
+        height: 194
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35ce8aa04d15cc21b976b00ce58ce7e7
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirrelJumpSpriteSheet_10
+      rect:
+        serializedVersion: 2
+        x: 1259
+        y: 842
+        width: 594
+        height: 194
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b979f33ceccbc341be4568db9151d05
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirrelJumpSpriteSheet_11
+      rect:
+        serializedVersion: 2
+        x: 1872
+        y: 824
+        width: 607
+        height: 216
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef6ad18adb3bca5bfb17c4744cdabcd9
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirrelJumpSpriteSheet_12
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 460
+        width: 568
+        height: 212
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d2c4a8d723b548099ef4ac2443d1cce
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirrelJumpSpriteSheet_13
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 402
+        width: 559
+        height: 244
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3661d821e9344773f932f2c3dec869ed
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirrelJumpSpriteSheet_14
+      rect:
+        serializedVersion: 2
+        x: 1288
+        y: 376
+        width: 546
+        height: 257
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 257a2d4a5e86f2134848b54764f90ce1
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirrelJumpSpriteSheet_15
+      rect:
+        serializedVersion: 2
+        x: 1927
+        y: 376
+        width: 553
+        height: 220
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf3491f2dbe6b356abbbeedce273ec7d
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirrelJumpSpriteSheet_18
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 11
+        width: 558
+        height: 266
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25ee7ddf7b20a12888133473180215d2
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirrelJumpSpriteSheet_19
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 4
+        width: 536
+        height: 271
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70ef6bf6cf64bed38bbfe0310f48ff7b
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: b795064e662501567bb63b7fda3c3ae9
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      squirrelJumpSpriteSheet_14: 21300028
+      squirrelJumpSpriteSheet_8: 21300016
+      squirrelJumpSpriteSheet_12: 21300024
+      squirrelJumpSpriteSheet_4: 21300008
+      squirrelJumpSpriteSheet_6: 21300012
+      squirrelJumpSpriteSheet_15: 21300030
+      squirrelJumpSpriteSheet_5: 21300010
+      squirrelJumpSpriteSheet_7: 21300014
+      squirrelJumpSpriteSheet_13: 21300026
+      squirrelJumpSpriteSheet_19: 21300034
+      squirrelJumpSpriteSheet_0: 21300000
+      squirrelJumpSpriteSheet_11: 21300022
+      squirrelJumpSpriteSheet_3: 21300006
+      squirrelJumpSpriteSheet_9: 21300018
+      squirrelJumpSpriteSheet_2: 21300004
+      squirrelJumpSpriteSheet_18: 21300032
+      squirrelJumpSpriteSheet_1: 21300002
+      squirrelJumpSpriteSheet_10: 21300020
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
